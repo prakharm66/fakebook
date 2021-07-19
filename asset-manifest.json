@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prakharm66/fakebook/static/css/main.18d94e89.chunk.css",
+    "main.js": "/prakharm66/fakebook/static/js/main.a58225fd.chunk.js",
+    "main.js.map": "/prakharm66/fakebook/static/js/main.a58225fd.chunk.js.map",
+    "runtime-main.js": "/prakharm66/fakebook/static/js/runtime-main.e81ce59a.js",
+    "runtime-main.js.map": "/prakharm66/fakebook/static/js/runtime-main.e81ce59a.js.map",
+    "static/js/2.223e5a34.chunk.js": "/prakharm66/fakebook/static/js/2.223e5a34.chunk.js",
+    "static/js/2.223e5a34.chunk.js.map": "/prakharm66/fakebook/static/js/2.223e5a34.chunk.js.map",
+    "static/js/3.a2395ab2.chunk.js": "/prakharm66/fakebook/static/js/3.a2395ab2.chunk.js",
+    "static/js/3.a2395ab2.chunk.js.map": "/prakharm66/fakebook/static/js/3.a2395ab2.chunk.js.map",
+    "index.html": "/prakharm66/fakebook/index.html",
+    "static/css/main.18d94e89.chunk.css.map": "/prakharm66/fakebook/static/css/main.18d94e89.chunk.css.map",
+    "static/js/2.223e5a34.chunk.js.LICENSE.txt": "/prakharm66/fakebook/static/js/2.223e5a34.chunk.js.LICENSE.txt",
+    "static/media/Dashboard.css": "/prakharm66/fakebook/static/media/like.c638beaf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81ce59a.js",
+    "static/js/2.223e5a34.chunk.js",
+    "static/css/main.18d94e89.chunk.css",
+    "static/js/main.a58225fd.chunk.js"
+  ]
+}
